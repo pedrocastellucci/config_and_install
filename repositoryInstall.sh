@@ -4,6 +4,9 @@
 sudo apt-get install emacs 
 sudo apt-get install vim
 
+# PT-BR dictionary
+sudo apt-get install aspell-pt-br
+
 # Python installs:
 sudo apt-get install python-pip
 sudo apt-get install python-jedi
