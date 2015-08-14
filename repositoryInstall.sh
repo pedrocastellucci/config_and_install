@@ -28,3 +28,5 @@ sudo apt-get install pidgin
 sudo apt-get install vlc
 sudo apt-get install texlive-full
 sudo apt-get install pdftk
+
+
