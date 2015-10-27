@@ -1,5 +1,8 @@
 #!/bin/bash
 
+sudo apt-get upgrade
+sudo apt-get update
+
 # Text editors:
 sudo apt-get install emacs 
 sudo apt-get install vim
